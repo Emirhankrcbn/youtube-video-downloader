@@ -21,6 +21,6 @@ def video_indir(url):
 # Kullanım Kısmı:
 # Aşağıdaki tırnak işaretleri içine indirmek istediğin videonun linkini yapıştır.
 
-video_linki = "https://www.youtube.com/shorts/LpXhZctFCt8"
+video_linki = "https://www.youtube.com/watch?v=ORNEK_LINK_BURAYA"
 
 video_indir(video_linki)
